@@ -1,2 +1,2 @@
 # Proyecto-integrador
-Proyecto integrador para la materia Algoritmo y estructura de datos 2
+Proyecto integrador de Algoritmo y Estructura de Datos II - 2026
